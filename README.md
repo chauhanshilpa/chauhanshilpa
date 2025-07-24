@@ -36,8 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chauhanshilpa&show_icons=true&theme=react&hide_border=false&include_all_commits=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=chauhanshilpa&theme=react&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanshilpa&layout=compact&theme=react&hide_border=false" />
