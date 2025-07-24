@@ -43,14 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanshilpa&layout=compact&theme=react&hide_border=false" />
 </p>
 
----
-
-### 📌 Top Contributions
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=chauhanshilpa&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/chauhanshilpa)
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
