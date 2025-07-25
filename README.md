@@ -10,8 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I'm focused on building **clean**, **responsive**, and **engaging** user interfaces  
-- 🧠 I love exploring design systems and frontend architecture  
-- 🌱 Currently learning **React Native**  
+- 🧠 I love exploring design systems and frontend architecture    
 - 🎯 Always excited to learn, collaborate, and solve real-world UI problems  
 - ✨ Passion drives my code. UI brings it to life.  
 
