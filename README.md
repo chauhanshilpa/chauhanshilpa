@@ -11,7 +11,7 @@
 
 - 🔭 I'm focused on building **clean**, **responsive**, and **engaging** user interfaces  
 - 🧠 I love exploring design systems and frontend architecture  
-- 🌱 Currently learning **TypeScript** and advanced **Next.js**  
+- 🌱 Currently learning **React Native**  
 - 🎯 Always excited to learn, collaborate, and solve real-world UI problems  
 - ✨ Passion drives my code. UI brings it to life.  
 
