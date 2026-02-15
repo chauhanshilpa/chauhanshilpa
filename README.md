@@ -1,45 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shilpa Chauhan</h1>
-<h3 align="center">✨ Frontend Developer | UI Enthusiast | React & Next.js Lover</h3>
+<h1 align="center">
+ SHILPA CHAUHAN
+</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b2471158e8cb01b4d3ef0f1.gif" width="400"/>
+ <b>Frontend Engineer • React System Architect • UI Specialist</b>
 </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🔭 I'm focused on building **clean**, **responsive**, and **engaging** user interfaces  
-- 🧠 I love exploring design systems and frontend architecture    
-- 🎯 Always excited to learn, collaborate, and solve real-world UI problems  
-- ✨ Passion drives my code. UI brings it to life.  
-
----
-
-### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  🟢 Status: Actively Building | 🟡 Mode: Learning | 🔵 Focus: Scalable UI
 </p>
 
----
-### 🌐 Let's Connect
+-----
+
+## 🧠 System Overview
+
++ Experience: 1+ Year Professional Frontend Development
++ Specialization: React.js | TypeScript | Next.js
++ Architecture: Reusable Components | State Management | Clean Code
++ Environment: Agile | Production Systems | Code Reviews
+
+## ⚙️ Tech Modules
+
+Frontend_Core:
+  - React.js
+  - Next.js
+  - Redux
+  - JavaScript
+  - TypeScript
+
+UI_Layer:
+  - Material UI
+  - Tailwind CSS
+  - Bootstrap
+  - Responsive Design
+
+System_Tools:
+  - Git
+  - GitHub
+  - VS Code
+
+## 📈 Performance Metrics
 
 <p align="center">
-  <a href="https://linkedin.com/in/chauhan-shilpa">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:chauhanshilpa602@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=chauhanshilpa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">✨ Turning ideas into delightful user experiences ✨</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhanshilpa&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🚀 Active Deployments
+### 📊 Dashboard Engineering @ Silzila
+- Unified tooltip system (20+ chart types)
+- Custom Waterfall Chart with cascading logic
+- 115+ merged PRs
+- Strict TypeScript architecture
+
+### 🛒 FabShop
+E-commerce platform built with scalable React architecture.
+
+### 📝 NoteKeeper
+Next.js powered note system with SSR and dynamic routing.
+
+## 🎯 System Upgrade Goal
+
+Targeting high-growth frontend engineering roles  
+Focused on advanced architecture, performance optimization & scalable UI systems.
+
+
+
