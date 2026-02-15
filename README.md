@@ -2,7 +2,6 @@
  SHILPA CHAUHAN
 </h1>
 
-
 <p align="center">
  <b>Frontend Engineer • React System Architect • UI Specialist</b>
 </p>
@@ -49,6 +48,8 @@ System_Tools:
 - Extended ECharts by building a custom Waterfall Chart with cascading financial calculations
 - Delivered 115+ PRs while contributing to code reviews & documentation
 - Improved UI consistency and cross-browser reliability using React, TypeScript & Material UI
+
+## 🛠 Personal Builds
 
 ### 🛒 FabShop
 Scalable e-commerce application built with **React.js, TypeScript & Material UI**.  
