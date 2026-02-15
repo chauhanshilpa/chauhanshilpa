@@ -28,13 +28,14 @@
 | <img width="48" height="48" alt="html" src="https://github.com/user-attachments/assets/3b6ec714-0842-474b-a444-4788e9e68a6a" /> | <img width="48" height="48" alt="css" src="https://github.com/user-attachments/assets/3cd46c11-539f-45b0-a0b9-168d3acb4761" /> | <img src="https://skillicons.dev/icons?i=js" height="45"/> | <img src="https://skillicons.dev/icons?i=ts" height="45"/> |  <img src="https://skillicons.dev/icons?i=react" height="45"/> | <img src="https://skillicons.dev/icons?i=nextjs" height="45"/> | <img src="https://skillicons.dev/icons?i=redux" height="45"/> |
 
 
-UI_Layer:
+#### UI_Layer:
 
 | Bootstrap | Material UI | Tailwind CSS |
 |-----------|-------------|--------------|
 | <img width="48" height="48" alt="bootstrap" src="https://github.com/user-attachments/assets/4c930ccc-b1e7-4c50-8c81-ec56def79908" /> | <img src="https://skillicons.dev/icons?i=mui" height="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> |
 
-System_Tools:
+#### System_Tools:
+
 | Git | GitHub | VS Code |
 |-----------|-------------|--------------|
 | <img src="https://skillicons.dev/icons?i=git" height="40"/> | <img src="https://skillicons.dev/icons?i=github" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode" height="40"/> |
