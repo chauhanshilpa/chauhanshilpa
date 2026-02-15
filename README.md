@@ -1,5 +1,5 @@
 <h1 align="center">
- SHILPA CHAUHAN
+ Shilpa Chauhan
 </h1>
 
 <p align="center">
