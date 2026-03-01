@@ -12,14 +12,14 @@
 
 -----
 
-## 🧠 System Overview
+## 🧠 About me
 
 + Experience: 1+ Year Professional Frontend Development
 + Specialization: HTML | CSS | JavaScript | TypeScript | React.js | Next.js | Redux
 + Architecture: Reusable Components | State Management | Clean Code
 + Environment: Agile | Production Systems | Code Reviews
 
-## ⚙️ Tech Modules
+## ⚙️ Tech Stacks
 
 #### Frontend_Core:
 
@@ -40,34 +40,39 @@
 |-----------|-------------|--------------|
 | <img src="https://skillicons.dev/icons?i=git" height="40"/> | <img src="https://skillicons.dev/icons?i=github" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode" height="40"/> |
 
-## 🚀 Active Deployments
+## 🚀 Work Experience
 
-### 📊 Frontend Engineer @ [Silzila Technologies Pvt Ltd](https://silzila.com/)
+### 📊 Frontend Engineer [@Silzila Technologies Pvt Ltd](https://silzila.com/)
 
-- Engineered scalable features and improved overall product usability.
-- Architected a unified tooltip system supporting 20+ chart types with dynamic formatting & “Extra Measure” fields
-- Extended ECharts by building a custom Waterfall Chart with cascading financial calculations
-- Delivered 115+ PRs while contributing to code reviews & documentation
-- Improved UI consistency and cross-browser reliability using React, TypeScript & Material UI
+- Developed reusable component architecture using React, TypeScript, Redux for state management & Material UI following Agile methodology
+- Built scalable, high-performance UI features, improving application usability and maintainability
+- Architected a unified tooltip system supporting 20+ ECharts visualizations with dynamic formatting and custom “Extra Measure” fields
+- Extended Apache ECharts by implementing a custom Waterfall Chart with cascading financial logic
+- Improved cross-browser compatibility (Chrome, Firefox, Safari) and responsive design across devices
+- Delivered 115+ pull requests, actively participating in code reviews, documentation
 
-## 🛠 Personal Builds
+### Frontend Developer Intern [@Lazarus Network](https://lazarus.network/)
+
+- Built and deployed a fully responsive e-commerce landing page (theradhashree.com) using ReactJS and Material UI.
+- Developed client-facing components for the Myriad Flow marketplace, managing requirements directly with clients.
+- Integrated ZK login & implemented a real-time chat feature in a project.
+
+## 🛠 Projects
 
 ### 🛒 FabShop
 Scalable e-commerce application built with **React.js, TypeScript & Material UI**.  
-Features authentication, product filtering, wishlist & persistent cart system.
+Features authentication, product filtering, wishlist & persistent cart system. Used Lazy Loading for performance optimization.
 
 ### 📝 NoteKeeper
-Dynamic note management app built with **React.js, TypeScript & Tailwind CSS**, later migrated to **Next.js (SSR & routing)**.  
+Dynamic note management app built with **Next.js, TypeScript & Tailwind CSS**, later migrated to **Next.js (SSR & routing)**.  
 Includes pagination, pinning & customizable UI themes.
 
 ### ✅ ToDo
 Full-stack task management application built with **React, Express.js & PostgreSQL**.  
 Implements REST APIs, CRUD operations & complete frontend–backend data flow.
 
-## 🎯 System Upgrade Goal
-
-Targeting high-growth frontend engineering roles  
-Focused on advanced architecture, performance optimization & scalable UI systems.
+<hr>
+<i>Currently Learning: Jest & React Testing Library | Performance Optimization (Web Vitals) | GraphQL Basics.<i/>
 
 
 
