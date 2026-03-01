@@ -48,7 +48,7 @@
 - Built scalable, high-performance UI features, improving application usability and maintainability
 - Architected a unified tooltip system supporting 20+ ECharts visualizations with dynamic formatting and custom “Extra Measure” fields
 - Extended Apache ECharts by implementing a custom Waterfall Chart with cascading financial logic
-- Improved cross-browser compatibility (Chrome, Firefox, Safari) and responsive design across devices
+- Improved cross-browser compatibility (Chrome, Firefox, Safari) and responsive design
 - Delivered 115+ pull requests, actively participating in code reviews, documentation
 
 ### Frontend Developer Intern [@Lazarus Network](https://lazarus.network/)
