@@ -40,39 +40,12 @@
 |-----------|-------------|--------------|
 | <img src="https://skillicons.dev/icons?i=git" height="40"/> | <img src="https://skillicons.dev/icons?i=github" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode" height="40"/> |
 
-## 🚀 Work Experience
+## 🚀 Explore My Resume
 
-### 📊 Frontend Engineer [@Silzila Technologies Pvt Ltd](https://silzila.com/)
-
-- Developed reusable component architecture using React, TypeScript, Redux for state management & Material UI following Agile methodology
-- Built scalable, high-performance UI features, improving application usability and maintainability
-- Architected a unified tooltip system supporting 20+ ECharts visualizations with dynamic formatting and custom “Extra Measure” fields
-- Extended Apache ECharts by implementing a custom Waterfall Chart with cascading financial logic
-- Improved cross-browser compatibility (Chrome, Firefox, Safari) and responsive design
-- Delivered 115+ pull requests, actively participating in code reviews, documentation
-
-### Frontend Developer Intern [@Lazarus Network](https://lazarus.network/)
-
-- Built and deployed a fully responsive e-commerce landing page (theradhashree.com) using ReactJS and Material UI.
-- Developed client-facing components for the Myriad Flow marketplace, managing requirements directly with clients.
-- Integrated ZK login & implemented a real-time chat feature in a project.
-
-## 🛠 Projects
-
-### 🛒 FabShop
-Scalable e-commerce application built with **React.js, TypeScript & Material UI**.  
-Features authentication, product filtering, wishlist & persistent cart system. Used Lazy Loading for performance optimization.
-
-### 📝 NoteKeeper
-Dynamic note management app built with **Next.js, TypeScript & Tailwind CSS**, later migrated to **Next.js (SSR & routing)**.  
-Includes pagination, pinning & customizable UI themes.
-
-### ✅ ToDo
-Full-stack task management application built with **React, Express.js & PostgreSQL**.  
-Implements REST APIs, CRUD operations & complete frontend–backend data flow.
+[Resume](https://drive.google.com/file/d/1lqeOBJixWUgLvYkN436MJ_1A6Fyqbbfl/view?usp=sharing)
 
 <hr>
-<i>Currently Learning: Jest & React Testing Library | Performance Optimization (Web Vitals) | GraphQL Basics.<i/>
+<i>Currently Learning: Vitest & React Testing Library | Performance Optimization (Web Vitals) | GraphQL Basics.<i/>
 
 
 
