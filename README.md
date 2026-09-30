@@ -7,7 +7,6 @@
 📍 Bengaluru, India · Open to remote roles and relocation
 
 <a href="https://www.linkedin.com/in/chauhan-shilpa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:chauhanshilpa602@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/u/chauhanshilpa602"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://drive.google.com/file/d/1lqeOBJixWUgLvYkN436MJ_1A6Fyqbbfl/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
